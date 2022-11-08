@@ -1,0 +1,7 @@
+João;35
+Maria;18
+Pedro;31
+luiza;22
+Tereza;56
+Luiz;44
+Tereza;61
